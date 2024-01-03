@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+
+.navbar{
+    padding: 15px;
+    background-color: blanchedalmond;
+    margin: 0;
+    /* width: 100vh; */
+}
+.links{
+    padding: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
