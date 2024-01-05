@@ -2,15 +2,27 @@ body{
     margin: 0px;
 }
 
-.navbar{
+.nav{
     padding: 15px;
     background-color: blanchedalmond;
     margin: 0;
     /* width: 100vh; */
-}
-.links{
-    padding: 10px;
-    text-decoration: none;
     font-size: 25px;
+    text-decoration: none;
+}
+.nav a{
+    color:brown;
+    text-decoration: none;
+    padding: 10px;
+    font-size: x-large;
     font-weight: bold;
+
+}
+.brand{
+    padding: 20px;
+}
+
+.active {
+    color: green !important;
+    
 }
